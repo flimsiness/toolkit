@@ -1,0 +1,2 @@
+# toolkit
+generator mybatis xml

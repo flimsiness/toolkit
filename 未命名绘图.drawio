@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="3">
   <diagram name="事件" id="Tm8wjcbFjeaA6EBHHuMP">
-    <mxGraphModel dx="1143" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="903" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
           <mxGeometry x="210" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-14" value="&amp;nbsp;观众服务已开启" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="660" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-16" value="&amp;nbsp;观众服务已设置报名表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="354" y="440" width="120" height="60" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="400" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-23" value="&amp;nbsp;观众服务已关闭" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="800" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-24" value="观众已设置模块服务&lt;div&gt;（二要素、三要素、人像对比、代人注册）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="70" y="440" width="120" height="60" as="geometry" />
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="yCPvtCTFaC7ZiINegcWP-52" value="主办" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1049" y="1050" width="56" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dxp3uJFzJEeHIixXzWs1-5" value="&amp;nbsp;调查问卷已设置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="660" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -298,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q6kzoPTu2Xn-h64HlVNq" name="领域模型">
-    <mxGraphModel dx="1143" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="903" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -415,6 +418,18 @@
         </mxCell>
         <mxCell id="C-nVrf0MM0xA3hMBVH0z-87" value="门票记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1265" y="875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEXxtibqpRDR3VGbxM44-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1005" width="500" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="GEXxtibqpRDR3VGbxM44-3" value="产品聚合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1025" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GEXxtibqpRDR3VGbxM44-4" value="产品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1075" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GEXxtibqpRDR3VGbxM44-7" value="产品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

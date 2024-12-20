@@ -44,7 +44,7 @@
           <mxGeometry x="210" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-14" value="&amp;nbsp;观众服务已开启" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="670" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-16" value="&amp;nbsp;观众服务已设置报名表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="354" y="440" width="120" height="60" as="geometry" />
@@ -81,6 +81,18 @@
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-27" value="支付已配置PayPal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="240" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-28" value="票证数据同步" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-29" value="票证数据下单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="380" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-30" value="票证数据核销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="530" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-31" value="票证关闭" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

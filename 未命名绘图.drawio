@@ -31,7 +31,7 @@
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-9" value="&amp;nbsp;展会已创建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="80" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0bBEa5JM60ahN9PU3Rlk-10" value="展会已设置模块服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-10" value="展会已设置模块服务&lt;div&gt;(观众、展商、媒体、嘉宾)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="230" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-11" value="展会已发布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
@@ -41,7 +41,7 @@
           <mxGeometry x="520" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-13" value="&amp;nbsp;观众服务已设置产品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="200" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-14" value="&amp;nbsp;观众服务已开启" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="670" y="440" width="120" height="60" as="geometry" />
@@ -71,7 +71,16 @@
           <mxGeometry x="800" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-24" value="观众已设置模块服务&lt;div&gt;（二要素、三要素、人像对比、代人注册）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="60" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-25" value="票证已开启&lt;div&gt;（设置票证系统接口参数）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-26" value="支付已配置微信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-27" value="支付已配置PayPal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

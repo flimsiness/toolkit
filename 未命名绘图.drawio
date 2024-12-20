@@ -224,7 +224,7 @@
           <mxGeometry x="340" y="2075" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yCPvtCTFaC7ZiINegcWP-26" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="2075" width="380" height="280" as="geometry" />
+          <mxGeometry x="690" y="2075" width="380" height="335" as="geometry" />
         </mxCell>
         <mxCell id="yCPvtCTFaC7ZiINegcWP-27" value="门票上下文" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="820" y="2110" width="90" height="30" as="geometry" />
@@ -246,6 +246,33 @@
         </mxCell>
         <mxCell id="yCPvtCTFaC7ZiINegcWP-33" value="支付已配置PayPal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="410" y="2145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yCPvtCTFaC7ZiINegcWP-39" value="门票已开启&lt;div&gt;（设置票证系统接口参数）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="730" y="2160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yCPvtCTFaC7ZiINegcWP-40" value="门票数据同步" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="870" y="2160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yCPvtCTFaC7ZiINegcWP-41" value="门票数据下单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="740" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yCPvtCTFaC7ZiINegcWP-42" value="门票数据核销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yCPvtCTFaC7ZiINegcWP-43" value="门票证关闭" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="830" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yCPvtCTFaC7ZiINegcWP-44" value="制证模板已设置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1394" y="2212.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yCPvtCTFaC7ZiINegcWP-45" value="制证模板已绑定产品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yCPvtCTFaC7ZiINegcWP-46" value="制证已打印" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yCPvtCTFaC7ZiINegcWP-47" value="创建制作信息&lt;div&gt;（同步+导入）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="2212.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -121,6 +121,9 @@
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-44" value="发票已开红票" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="390" y="740" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-45" value="工作人员已登录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

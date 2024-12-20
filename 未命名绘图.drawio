@@ -124,6 +124,18 @@
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-45" value="工作人员已登录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-47" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1140" width="380" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-49" value="工作人员上下文" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="1169" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-50" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1130" width="380" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-51" value="展会上下文" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="590" y="1169" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

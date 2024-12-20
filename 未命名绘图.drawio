@@ -274,6 +274,15 @@
         <mxCell id="yCPvtCTFaC7ZiINegcWP-47" value="创建制作信息&lt;div&gt;（同步+导入）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1240" y="2212.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yCPvtCTFaC7ZiINegcWP-50" value="工作人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="19" y="230" width="56" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yCPvtCTFaC7ZiINegcWP-51" value="观众" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="19" y="1060" width="56" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yCPvtCTFaC7ZiINegcWP-52" value="主办" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1049" y="1050" width="56" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

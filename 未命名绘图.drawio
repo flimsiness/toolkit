@@ -104,7 +104,7 @@
           <mxGeometry x="240" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-36" value="制证模板已绑定产品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="400" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-37" value="制证已打印" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="560" y="970" width="120" height="60" as="geometry" />

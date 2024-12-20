@@ -208,6 +208,9 @@
         <mxCell id="yCPvtCTFaC7ZiINegcWP-19" value="观众登录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="950" y="1700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="yCPvtCTFaC7ZiINegcWP-21" value="工作人员已登录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

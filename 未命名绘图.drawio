@@ -56,16 +56,16 @@
           <mxGeometry x="80" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-19" value="报名表已审核" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="380" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-20" value="审核分发二维码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="530" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-21" value="审核同步至票证服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="680" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0bBEa5JM60ahN9PU3Rlk-22" value="已支付" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="230" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-22" value="创建支付订单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-23" value="&amp;nbsp;观众服务已关闭" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="800" y="440" width="120" height="60" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="80" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-27" value="支付已配置PayPal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="240" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="234" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-28" value="票证数据同步" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="230" y="650" width="120" height="60" as="geometry" />
@@ -93,6 +93,12 @@
         </mxCell>
         <mxCell id="0bBEa5JM60ahN9PU3Rlk-31" value="票证关闭" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="680" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-32" value="订单已支付" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0bBEa5JM60ahN9PU3Rlk-33" value="订单已取消" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="700" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

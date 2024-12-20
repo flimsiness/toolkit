@@ -188,7 +188,7 @@
           <mxGeometry x="940" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yCPvtCTFaC7ZiINegcWP-13" value="审核分发二维码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1900" width="120" height="60" as="geometry" />
+          <mxGeometry x="1105" y="1900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yCPvtCTFaC7ZiINegcWP-14" value="审核同步至票证服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1275" y="1900" width="120" height="60" as="geometry" />
@@ -200,7 +200,7 @@
           <mxGeometry x="935" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yCPvtCTFaC7ZiINegcWP-17" value="订单已取消" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="1800" width="120" height="60" as="geometry" />
+          <mxGeometry x="1105" y="1800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yCPvtCTFaC7ZiINegcWP-18" value="发票已开票" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1275" y="1800" width="120" height="60" as="geometry" />

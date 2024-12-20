@@ -192,7 +192,7 @@
         <mxCell id="EqSKpXOvU9lYXuKBLG75-53" value="观众报名下文" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1136" y="420" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EqSKpXOvU9lYXuKBLG75-54" value="&amp;nbsp;观众服务已设置产品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="EqSKpXOvU9lYXuKBLG75-54" value="&amp;nbsp;观众服务绑定产品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1181" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EqSKpXOvU9lYXuKBLG75-55" value="&amp;nbsp;观众服务已开启" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">

@@ -270,11 +270,8 @@
         <mxCell id="EqSKpXOvU9lYXuKBLG75-79" value="支付已配置PayPal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="326" y="597.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EqSKpXOvU9lYXuKBLG75-80" value="支付已配置微信" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="EqSKpXOvU9lYXuKBLG75-80" value="发票配置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="267" y="930" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EqSKpXOvU9lYXuKBLG75-81" value="支付已配置PayPal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="426" y="935" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EqSKpXOvU9lYXuKBLG75-82" value="门票已开启&lt;div&gt;（设置票证系统接口参数）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="746" y="950" width="120" height="60" as="geometry" />
@@ -411,7 +408,7 @@
           <mxGeometry x="1270" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C-nVrf0MM0xA3hMBVH0z-78" value="模板" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="205" width="120" height="60" as="geometry" />
+          <mxGeometry x="1445" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C-nVrf0MM0xA3hMBVH0z-79" value="信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1270" y="305" width="120" height="60" as="geometry" />
